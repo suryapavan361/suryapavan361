@@ -31,4 +31,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
+
+![snake gif](https://github.com/suryapavan361/suryapavan361/blob/output/github-snake-dark.svg)
 ###
