@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is M V Surya Pavan  and I'm a Network Engineeare, from Hyderabad ,INDIA</h2>
+<h2 align="left">Hi 👋! My name is Surya and I'm a Network Engineeare, from Hyderabad </h2>
 
 ###
 
